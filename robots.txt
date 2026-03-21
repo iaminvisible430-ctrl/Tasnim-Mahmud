@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://tasnimport-ruddy.vercel.app/sitemap.xml
