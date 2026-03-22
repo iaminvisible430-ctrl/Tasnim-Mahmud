@@ -1,0 +1,67 @@
+{
+  "name": "Tasnim Mahmud | AI Founder & Developer",
+  "short_name": "Tasnim Mahmud",
+  "description": "Official portfolio of Tasnim Mahmud — AI Founder, CEO of AIRCIMpco, Creator of MahmudGPT, AirLearn AI & Auto-GradeX. Bangladesh AI Pioneer.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#02040a",
+  "theme_color": "#00d4ff",
+  "orientation": "portrait-primary",
+  "lang": "en-BD",
+  "dir": "ltr",
+  "categories": ["education", "productivity", "technology", "personalization"],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/favicon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "MahmudGPT",
+      "short_name": "MahmudGPT",
+      "description": "Open MahmudGPT AI Assistant",
+      "url": "https://MahmudGPT.lovable.app",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "AirLearn AI",
+      "short_name": "AirLearn",
+      "description": "Bangladesh's Free AI Learning Platform",
+      "url": "#airlearn",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Contact Tasnim",
+      "short_name": "Contact",
+      "description": "Get in touch with Tasnim Mahmud",
+      "url": "#contact",
+      "icons": [{ "src": "/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}

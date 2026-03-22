@@ -1,0 +1,41 @@
+# Tasnim Mahmud Portfolio — robots.txt
+# https://tasnimport-ruddy.vercel.app
+
+User-agent: *
+Allow: /
+
+# Block any build artifacts (none exist but good practice)
+Disallow: /api/
+Disallow: /.vercel/
+Disallow: /node_modules/
+
+# Crawl delay (optional — remove if you want fastest indexing)
+# Crawl-delay: 1
+
+# Sitemap location
+Sitemap: https://tasnimport-ruddy.vercel.app/sitemap.xml
+
+# Specific search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /

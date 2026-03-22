@@ -1,0 +1,17 @@
+{
+  "name": "tasnim-mahmud-portfolio",
+  "version": "2.0.0",
+  "description": "Official portfolio of Tasnim Mahmud — AI Founder, CEO of AIRCIMpco, Creator of MahmudGPT, AirLearn AI & Auto-GradeX",
+  "author": "Tasnim Mahmud <mahmudnil48@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://tasnimport-ruddy.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iaminvisible430-ctrl/Tasnim-Mahmud"
+  },
+  "keywords": ["ai", "portfolio", "bangladesh", "mahmudgpt", "airlearn", "aircimpco"],
+  "scripts": {
+    "start": "npx serve .",
+    "deploy": "vercel --prod"
+  }
+}
