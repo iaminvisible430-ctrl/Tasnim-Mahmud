@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://tasnimport-ruddy.vercel.app/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/tasnim-mahmud-ai-founder-bangladesh.jpg</image:loc>
+      <image:title>Tasnim Mahmud — AI Founder and Developer Bangladesh</image:title>
+      <image:caption>Tasnim Mahmud, Founder and CEO of AIRCIMpco. Creator of MahmudGPT, AirLearn AI, and Auto-GradeX. Bangladesh AI pioneer and software developer. Official photo of Tasnim Mahmud.</image:caption>
+      <image:geo_location>Dhaka, Bangladesh</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/tasnim-mahmud-aircimpco-founder-developer.jpg</image:loc>
+      <image:title>Tasnim Mahmud — AIRCIMpco Founder working on AI projects Bangladesh</image:title>
+      <image:caption>Tasnim Mahmud at his desk building AI systems in Bangladesh. Founder and CEO of AIRCIMpco. Creator of MahmudGPT, AirLearn AI and Auto-GradeX.</image:caption>
+      <image:geo_location>Dhaka, Bangladesh</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/tasnim-mahmud-bangladesh-tourist.jpg</image:loc>
+      <image:title>Tasnim Mahmud — Photo of Tasnim Mahmud AI Founder Bangladesh</image:title>
+      <image:caption>Tasnim Mahmud exploring Bangladesh. Young AI founder, software developer, and CEO of AIRCIMpco. Creator of MahmudGPT and AirLearn AI.</image:caption>
+      <image:geo_location>Bangladesh</image:geo_location>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/aircimpco-logo-bangladesh-ai-research.jpg</image:loc>
+      <image:title>AIRCIMpco Logo — Bangladesh AI Research Organization founded by Tasnim Mahmud</image:title>
+      <image:caption>AIRCIMpco logo. Artificial Intelligence Research Collaboration Integration Migration Production Company. Founded by Tasnim Mahmud. aircimpco.lovable.app</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/aircimpco-plus-ai-research-organization.jpg</image:loc>
+      <image:title>AIRCIMpco Plus+ — Advanced AI Research Platform Bangladesh by Tasnim Mahmud</image:title>
+      <image:caption>AIRCIMpco Plus+ by Tasnim Mahmud. Advanced AI research platform from Bangladesh.</image:caption>
+    </image:image>
+
+    <image:image>
+      <image:loc>https://tasnimport-ruddy.vercel.app/tasnim-mahmud-tm-logo-ai-founder.jpg</image:loc>
+      <image:title>TM Logo — Tasnim Mahmud personal brand mark AI Founder Bangladesh</image:title>
+      <image:caption>TM personal brand logo of Tasnim Mahmud. AI Founder and Developer from Bangladesh.</image:caption>
+    </image:image>
+
+  </url>
+
+</urlset>
